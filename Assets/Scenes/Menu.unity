@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 233379210}
   - component: {fileID: 233379209}
   m_Layer: 5
-  m_Name: Button
+  m_Name: PlayBtt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -787,7 +787,7 @@ GameObject:
   - component: {fileID: 1061862550}
   - component: {fileID: 1061862549}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: CreditsBtt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1038,7 +1038,7 @@ GameObject:
   - component: {fileID: 1135950370}
   - component: {fileID: 1135950369}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: SettingsBtt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1446,7 +1446,7 @@ GameObject:
   - component: {fileID: 1722163759}
   - component: {fileID: 1722163758}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: QuitBtt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
