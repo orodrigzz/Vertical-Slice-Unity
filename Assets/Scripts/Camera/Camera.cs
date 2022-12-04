@@ -22,6 +22,12 @@ public class Camera : MonoBehaviour
     public float minRotation = -50f;
     public float maxRotation = 50f;
 
+    private void Awake()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+    }
+
     private void LateUpdate()
     {
         targetDistance -= Input.mouseScrollDelta.y;
