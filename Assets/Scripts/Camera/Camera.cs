@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Camera : MonoBehaviour
 {
-    [SerializeField]
-    private GameObject target;
 
     [SerializeField]
     private float targetDistance;
@@ -22,11 +20,11 @@ public class Camera : MonoBehaviour
     public float minRotation = -50f;
     public float maxRotation = 50f;
 
-    private void Awake()
-    {
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
-    }
+    //private void Awake()
+    //{
+    //    Cursor.lockState = CursorLockMode.Locked;
+    //    Cursor.visible = false;
+    //}
 
     private void LateUpdate()
     {
@@ -47,16 +45,6 @@ public class Camera : MonoBehaviour
 
         transform.eulerAngles = new Vector3(rotationX, rotationY, 0);
 
-        Vector3 finalposition = Vector3.Lerp(transform.position, target.transform.position - transform.forward * targetDistance, cameraLerp * Time.deltaTime);
-
-        RaycastHit hit;
-
-        if(Physics.Linecast(target.transform.position, finalposition, out hit))
-        {
-            finalposition = hit.point;
-        }
-
-        transform.position = finalposition;
 
     }
 }
