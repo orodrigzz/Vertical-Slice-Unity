@@ -1,0 +1,32 @@
+Resaltar objetos con nombre
+Click -> te sale en 2D
+
+Tutorial aparece fuera juzgado -> Ir a mesa juez click silla-> pasa scene a sentado -> Tutorial de cada
+Click en cada -> Sale en 2D
+Boton Unity -> Decidir
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DNI Acusado:
+Nombre
+Genero
+Birthdate
+País
+
+DNI Denunciante:
+Nombre
+Genero
+Birthdate
+País
+
+Denuncia:
+DNI y nombre del acusado
+DNI y nombre del denunciante
+Pena 
+
+Constituçao:
+Donde pone las penas
+------------------------------------------------------------------------------
+Si DNI acusado/denunciante no coincide / No existe pena -> Cárcel denunciante 
+Si pena es menor 2 años -> Libertad
+--------------------------------------------------------------------------------
