@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Click : MonoBehaviour
+public class WelcomeCanvas : MonoBehaviour
 {
     public GameObject UI;
 
     private void OnMouseDown()
     {
-        UI.SetActive(true);
+        UI.SetActive(false); 
+        Destroy(gameObject);
     }
 
 }
