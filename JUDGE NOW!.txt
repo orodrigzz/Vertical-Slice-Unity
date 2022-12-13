@@ -1,9 +1,13 @@
-Resaltar objetos con nombre
-Click -> te sale en 2D
+FALTA:
+Resaltar objetos con nombre?
+Hacer 2d como "3d"
+LVL 1
+LVL 2
+LVL 3
+LVL 4
+LVL 5
 
-Tutorial aparece fuera juzgado -> Ir a mesa juez click silla-> pasa scene a sentado -> Tutorial de cada
-Click en cada -> Sale en 2D
-Boton Unity -> Decidir
+no se puede decidir botones xd?¿
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------

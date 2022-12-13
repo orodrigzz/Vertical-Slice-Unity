@@ -5,13 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
 {
-    public GameObject UI;
-
-    void Start()
-    {
-        UI.SetActive(false);
-    }
-
     public void Fired()
     {
         SceneManager.LoadScene("Fired");
@@ -42,13 +35,13 @@ public class Game : MonoBehaviour
         SceneManager.LoadScene("Game5");
     }
 
-    public void Game6()
+    public void GameOver()
     {
-        SceneManager.LoadScene("Game6");
+        SceneManager.LoadScene("GameOver");
     }
 
-    public void Game7()
+    public void Menu()
     {
-        SceneManager.LoadScene("Game7");
+        SceneManager.LoadScene("Menu");
     }
 }
