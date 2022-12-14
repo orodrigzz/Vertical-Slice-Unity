@@ -1,5 +1,4 @@
 Resaltar objetos con nombre
-Hacer 2d como "3d"
 LVL 1
 LVL 2
 LVL 3
