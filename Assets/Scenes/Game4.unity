@@ -1752,7 +1752,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 516537427}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
-        m_MethodName: Game4
+        m_MethodName: Fired
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6469,7 +6469,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 43fece9ea435ed543a9e230d1b8b8f13, type: 2}
+  - {fileID: 2100000, guid: b8d2cdc5fe31f8945a63353040e2ee1f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6514,7 +6514,7 @@ MonoBehaviour:
   UI: {fileID: 388070156}
   objeto: {fileID: 575274390}
   transparente: {fileID: 2100000, guid: 6cd99ed4b27e96a4c989ef0ce766bb91, type: 2}
-  original: {fileID: 2100000, guid: 43fece9ea435ed543a9e230d1b8b8f13, type: 2}
+  original: {fileID: 2100000, guid: b8d2cdc5fe31f8945a63353040e2ee1f, type: 2}
 --- !u!1 &582338072
 GameObject:
   m_ObjectHideFlags: 0
@@ -8655,7 +8655,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b8c9de8c76ff6724097ddc377e1a6294, type: 2}
+  - {fileID: 2100000, guid: 27e31369d89e66a438363aeeb543dee6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8700,7 +8700,7 @@ MonoBehaviour:
   UI: {fileID: 1966002531}
   objeto: {fileID: 774524165}
   transparente: {fileID: 2100000, guid: 6cd99ed4b27e96a4c989ef0ce766bb91, type: 2}
-  original: {fileID: 2100000, guid: b8c9de8c76ff6724097ddc377e1a6294, type: 2}
+  original: {fileID: 2100000, guid: 27e31369d89e66a438363aeeb543dee6, type: 2}
 --- !u!1 &775244297
 GameObject:
   m_ObjectHideFlags: 0
@@ -12930,7 +12930,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: aa868d1aa32ac8c41810186f01e9e21c, type: 3}
+  m_Texture: {fileID: 2800000, guid: 1514473f4f696d9458c46a48f8275997, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -13092,7 +13092,7 @@ MonoBehaviour:
   UI: {fileID: 851353211}
   objeto: {fileID: 1246689834}
   transparente: {fileID: 2100000, guid: 6cd99ed4b27e96a4c989ef0ce766bb91, type: 2}
-  original: {fileID: 2100000, guid: 735073741b78e984ebed1fb745cf5465, type: 2}
+  original: {fileID: 2100000, guid: 9e2b6ac158518b744ba25c07e719a208, type: 2}
 --- !u!65 &1246689837
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13126,7 +13126,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 735073741b78e984ebed1fb745cf5465, type: 2}
+  - {fileID: 2100000, guid: 9e2b6ac158518b744ba25c07e719a208, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16795,7 +16795,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 516537427}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
-        m_MethodName: Fired
+        m_MethodName: Game5
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -18072,7 +18072,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 5c23d45fbb1f1184fa336ec1b366da17, type: 3}
+  m_Texture: {fileID: 2800000, guid: 2495a668ddb6e544db6a847ce342e187, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -20190,7 +20190,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 0217687d6faa39a43a63ca5338d5d8dd, type: 3}
+  m_Texture: {fileID: 2800000, guid: 800b8e2b9a037ab419d474cec770c6cf, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
