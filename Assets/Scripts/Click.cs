@@ -11,4 +11,9 @@ public class Click : MonoBehaviour
         UI.SetActive(true);
     }
 
+    private void OnMouseUp()
+    {
+        UI.SetActive(false);
+    }
+
 }

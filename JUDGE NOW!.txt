@@ -1,34 +1,7 @@
-FALTA:
-Resaltar objetos con nombre?
+Resaltar objetos con nombre
 Hacer 2d como "3d"
 LVL 1
 LVL 2
 LVL 3
 LVL 4
 LVL 5
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-DNI Acusado:
-Nombre
-Genero
-Birthdate
-País
-
-DNI Denunciante:
-Nombre
-Genero
-Birthdate
-País
-
-Denuncia:
-DNI y nombre del acusado
-DNI y nombre del denunciante
-Pena 
-
-Constituçao:
-Donde pone las penas
-------------------------------------------------------------------------------
-Si DNI acusado/denunciante no coincide / No existe pena -> Cárcel denunciante 
-Si pena es menor 2 años -> Libertad
---------------------------------------------------------------------------------
